@@ -17,7 +17,7 @@
     Trello
 </summary>
 <div style="
-    border: 1px solid #3A3C42;
+    border: 2px solid #6a9fb5;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #000;
@@ -43,7 +43,7 @@
     Planilhas
 </summary>
 <div style="
-    border: 1px solid #3A3C42;
+    border: 2px solid #6a9fb5;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #000;
@@ -73,7 +73,7 @@
     Google Drive
 </summary>
 <div style="
-    border: 1px solid #3A3C42;
+    border: 2px solid #6a9fb5;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #000;
@@ -93,7 +93,7 @@
     Storytelling
 </summary>
 <div style="
-    border: 1px solid #3A3C42;
+    border: 2px solid #6a9fb5;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #000;
@@ -113,7 +113,7 @@
     Diagramas
 </summary>
 <div style="
-    border: 1px solid #3A3C42;
+    border: 2px solid #6a9fb5;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #000;
@@ -139,7 +139,7 @@
     HubSpot
 </summary>
 <div style="
-    border: 1px solid #3A3C42;
+    border: 2px solid #6a9fb5;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #000;
@@ -161,7 +161,7 @@
     Links diversos
 </summary>
 <div style="
-    border: 1px solid #3A3C42;
+    border: 2px solid #6a9fb5;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #000;
@@ -171,7 +171,7 @@
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://www.contabilix.com.br/contabilidade-online/entenda-quem-e-o-responsavel-pelo-iss-quando-o-servico-for-prestado-fora-do-municipio-sede-da-empresa-prestadora/" target="_blank">Entenda quem é o responsável pelo ISS quando o serviço for prestado fora do município sede da empresa prestadora</a></div>
     <div style="background-color: #000;
-    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://blog.contaazul.com/iss" target="_blank">Guia do ISS: quem deve pagar, como calcular e o que mudou no Imposto Sobre Serviços</a></div>
+    border-radius: 4px;padding: 15px;"><a href="https://blog.contaazul.com/iss" target="_blank">Guia do ISS: quem deve pagar, como calcular e o que mudou no Imposto Sobre Serviços</a></div>
 </div>
 </details>
 
