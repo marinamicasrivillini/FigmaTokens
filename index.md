@@ -153,5 +153,5 @@ Gestão financeira.
 </details>
 
 ```markdown
-Time: Carla Dias | Glaucia Paulino | João Machado | José Formiga | Lucas Fruncht | Marina Micas | Simone Albado
+Carla Dias | Glaucia Paulino | João Machado | José Formiga | Lucas Fruncht | Marina Micas | Simone Albado
 ```
