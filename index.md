@@ -77,7 +77,10 @@
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #000;
-    border-radius: 4px;padding: 15px;"><a href="https://drive.google.com/drive/folders/1bwY8bSxbs_J-f8Hawr0uno3Q03oQzC-o?usp=sharing" target="_blank">Finanças WEb</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://drive.google.com/drive/folders/1bwY8bSxbs_J-f8Hawr0uno3Q03oQzC-o?usp=sharing" target="_blank">Finanças WEb</a></div>
+</div>
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;"><a href="https://drive.google.com/drive/folders/1IB1VSbu9aWJMPK8G5p9EGHxm5YBKod1K?usp=sharing" target="_blank">Informativos Nasajon</a></div>
 </div>
 </details>
 
