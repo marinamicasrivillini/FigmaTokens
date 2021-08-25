@@ -14,13 +14,11 @@ Gestão financeira.
     Trello
 </summary>
 <div style="
-    background-color: #ddd;;
-    border-radius: 4px;
-    padding: 15px;">
-    <div style="
     border: 1px solid #ddd;
     border-radius: 0 0 4px 4px;
-                padding: 15px;"><a href="https://trello.com/b/mCWgLC4F/fw-entrevista-explorat%C3%B3ria-nasajon" target="_blank">FW - ENTREVISTA EXPLORATÓRIA (NASAJON)</a></div>
+    padding: 15px;">
+    <div style="background-color: #ddd;;
+    border-radius: 4px;padding: 15px;margin:20px"><a href="https://trello.com/b/mCWgLC4F/fw-entrevista-explorat%C3%B3ria-nasajon" target="_blank">FW - ENTREVISTA EXPLORATÓRIA (NASAJON)</a></div>
 </div>
 </details>
 
