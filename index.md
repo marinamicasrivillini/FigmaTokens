@@ -123,7 +123,7 @@
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://miro.com/welcomeonboard/UlpmazFoUXM1cFdwRjlnVDBxSXRXOTVUWDNIeVlpTmdnVVo5TWRMRU9Lc2h1UUh5S2IxRndjRmNETTRtVWFDc3wzMDc0NDU3MzU4MDA5Njg2MDc1" target="_blank">FW - Agentes e Problemáticas no Miro</a></div>
     <div style="background-color: #000;
-    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://miro.com/welcomeonboard/SVFFQkRVZ3dHdVQxdmRCM0kxQk8xdnZOalpucDhueXNuWTZ6dDZ0eWFoTHBMdUlRVDJma0FNNUN3dk5KODVENHwzMDc0NDU3MzU4MDA5Njg2MDc1" target="_blank">ANA - Finanças no Miro</a></div>
+    border-radius: 4px;padding: 15px;"><a href="https://miro.com/welcomeonboard/SVFFQkRVZ3dHdVQxdmRCM0kxQk8xdnZOalpucDhueXNuWTZ6dDZ0eWFoTHBMdUlRVDJma0FNNUN3dk5KODVENHwzMDc0NDU3MzU4MDA5Njg2MDc1" target="_blank">ANA - Finanças no Miro</a></div>
 </div>
 </details>
 
@@ -146,6 +146,32 @@
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://app.hubspot.com/login/" target="_blank">Login HubSpot</a></div>
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;"><a href="https://www.hubspot.com/" target="_blank">Site HubSpot</a></div>
+</div>
+</details>
+
+<details style="margin-bottom:20px;color: white;">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<summary style="
+    background-color: #3A3C42;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 4px 4px 0 0;
+    cursor:pointer;"
+    title="Clique aqui para visualizar conteúdos de Links diversos"><i class="fas fa-link" style="color: #959da5;margin-right:10px;"></i>
+    Links diversos
+</summary>
+<div style="
+    border: 1px solid #3A3C42;
+    border-radius: 0 0 4px 4px;
+    padding: 15px;">
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://atendimento.nasajon.com.br/nasajon/artigos?categoria=a4df20c7-35f5-44f7-900f-22441b4b572d" target="_blank">Base de Conhecimento - Finanças</a></div>
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://nasajoneducacional.com.br/ng/student/courses/financas/lectures/modulo-1-cadastros-iniciais-1/contents/5ea8a9d0c4dfa7001909c658/" target="_blank">Nasajon Educacional - Finanças</a></div>
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://www.contabilix.com.br/contabilidade-online/entenda-quem-e-o-responsavel-pelo-iss-quando-o-servico-for-prestado-fora-do-municipio-sede-da-empresa-prestadora/" target="_blank">Entenda quem é o responsável pelo ISS quando o serviço for prestado fora do município sede da empresa prestadora</a></div>
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://blog.contaazul.com/iss" target="_blank">Guia do ISS: quem deve pagar, como calcular e o que mudou no Imposto Sobre Serviços</a></div>
 </div>
 </details>
 
