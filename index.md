@@ -1,7 +1,3 @@
-## Finanças
-
-Gestão financeira.
-
 <details style="margin-bottom:20px;color: white;">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>code, pre {
@@ -9,14 +5,15 @@ Gestão financeira.
     text-align: center;
 }a {
     color: white;
-}</style>
+}pre {
+    background: #069;}</style>
 <summary style="
     background-color: #3A3C42;
     padding: 10px;
     font-weight: bold;
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
-    title="Clique aqui para visualizar conteúdos no Trello"><i class="fab fa-trello" style="color: #2879d0;margin-right:10px;"></i>
+    title="Clique aqui para visualizar conteúdos no Trello"><i class="fab fa-trello" style="color: #959da5;margin-right:10px;"></i>
     Trello
 </summary>
 <div style="
@@ -42,7 +39,7 @@ Gestão financeira.
     font-weight: bold;
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
-    title="Clique aqui para visualizar conteúdos em Planilhas"><i class="fas fa-file-excel" style="color: #2879d0;margin-right:10px;"></i>
+    title="Clique aqui para visualizar conteúdos em Planilhas"><i class="fas fa-file-excel" style="color: #959da5;margin-right:10px;"></i>
     Planilhas
 </summary>
 <div style="
@@ -72,7 +69,7 @@ Gestão financeira.
     font-weight: bold;
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
-    title="Clique aqui para visualizar conteúdos no Google Drive"><i class="fab fa-google-drive" style="color: #2879d0;margin-right:10px;"></i>
+    title="Clique aqui para visualizar conteúdos no Google Drive"><i class="fab fa-google-drive" style="color: #959da5;margin-right:10px;"></i>
     Google Drive
 </summary>
 <div style="
@@ -92,7 +89,7 @@ Gestão financeira.
     font-weight: bold;
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
-    title="Clique aqui para visualizar conteúdos de Storytelling"><i class="fas fa-quran" style="color: #2879d0;margin-right:10px;"></i>
+    title="Clique aqui para visualizar conteúdos de Storytelling"><i class="fas fa-quran" style="color: #959da5;margin-right:10px;"></i>
     Storytelling
 </summary>
 <div style="
@@ -112,7 +109,7 @@ Gestão financeira.
     font-weight: bold;
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
-    title="Clique aqui para visualizar conteúdos dos Diagramas"><i class="fas fa-project-diagram" style="color: #2879d0;margin-right:10px;"></i>
+    title="Clique aqui para visualizar conteúdos dos Diagramas"><i class="fas fa-project-diagram" style="color: #959da5;margin-right:10px;"></i>
     Diagramas
 </summary>
 <div style="
@@ -138,7 +135,7 @@ Gestão financeira.
     font-weight: bold;
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
-    title="Clique aqui para visualizar conteúdos de HubSpot"><i class="fab fa-hubspot" style="color: #2879d0;margin-right:10px;"></i>
+    title="Clique aqui para visualizar conteúdos de HubSpot"><i class="fab fa-hubspot" style="color: #959da5;margin-right:10px;"></i>
     HubSpot
 </summary>
 <div style="
