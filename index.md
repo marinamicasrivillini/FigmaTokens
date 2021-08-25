@@ -5,7 +5,7 @@ Gestão financeira.
 <details style="margin-bottom:20px;">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <summary style="
-    background-color: #ddd;
+    background-color: #3A3C42;
     padding: 10px;
     font-weight: bold;
     border-radius: 4px 4px 0 0;
@@ -14,15 +14,15 @@ Gestão financeira.
     Trello
 </summary>
 <div style="
-    border: 1px solid #ddd;
+    border: 1px solid #3A3C42;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://trello.com/b/mCWgLC4F/fw-entrevista-explorat%C3%B3ria-nasajon" target="_blank">FW - ENTREVISTA EXPLORATÓRIA (NASAJON)</a>       </div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://trello.com/b/mCWgLC4F/fw-entrevista-explorat%C3%B3ria-nasajon" target="_blank">FW - ENTREVISTA EXPLORATÓRIA (NASAJON)</a>       </div>
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://trello.com/b/8kwOVdFy/fw-agentes-e-problem%C3%A1ticas" target="_blank">FW - AGENTES E PROBLEMÁTICAS</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://trello.com/b/8kwOVdFy/fw-agentes-e-problem%C3%A1ticas" target="_blank">FW - AGENTES E PROBLEMÁTICAS</a></div>
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://trello.com/b/93XkOLaq/fw-ost" target="_blank">FW - OST</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://trello.com/b/93XkOLaq/fw-ost" target="_blank">FW - OST</a></div>
     <div style="background-color: #c6eafa;
     border-radius: 4px;padding: 15px;"><a href="https://trello.com/b/KyN2R3ht/fw-objetivos" target="_blank">FW - OBJETIVOS</a></div>
 </div>
@@ -31,7 +31,7 @@ Gestão financeira.
 <details style="margin-bottom:20px;">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <summary style="
-    background-color: #ddd;
+    background-color: #3A3C42;
     padding: 10px;
     font-weight: bold;
     border-radius: 4px 4px 0 0;
@@ -40,19 +40,19 @@ Gestão financeira.
     Planilhas
 </summary>
 <div style="
-    border: 1px solid #ddd;
+    border: 1px solid #3A3C42;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://docs.google.com/spreadsheets/d/1V2Xqn731CpAkzokEFqvgqDfsULqyst0edXMHjK5F1j8/edit?usp=sharing" target="_blank">Benchmarking Competitivo</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/spreadsheets/d/1V2Xqn731CpAkzokEFqvgqDfsULqyst0edXMHjK5F1j8/edit?usp=sharing" target="_blank">Benchmarking Competitivo</a></div>
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://docs.google.com/spreadsheets/d/1eN9eyijUvlrDU8S6PoG0j2wnNpvtTJGvlDbInsqfY1I/edit?usp=sharing" target="_blank">Contas a Receber - Processos</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/spreadsheets/d/1eN9eyijUvlrDU8S6PoG0j2wnNpvtTJGvlDbInsqfY1I/edit?usp=sharing" target="_blank">Contas a Receber - Processos</a></div>
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://docs.google.com/spreadsheets/d/1LyOZKR-02iDzYbgwoFl5ypScVdgaZfhosuHz6CzlUFk/edit?usp=sharing" target="_blank">Roadmap automatização de processos</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/spreadsheets/d/1LyOZKR-02iDzYbgwoFl5ypScVdgaZfhosuHz6CzlUFk/edit?usp=sharing" target="_blank">Roadmap automatização de processos</a></div>
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://docs.google.com/spreadsheets/d/1dgGrq0TPbUTZVR9fvKWWRJdD5Vr_Tt-B9qBJ-1sA9SM/edit?usp=sharing" target="_blank">(Rascunho) Orçamento Joao Machado para  Ana Finanças para Contas a Receber</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/spreadsheets/d/1dgGrq0TPbUTZVR9fvKWWRJdD5Vr_Tt-B9qBJ-1sA9SM/edit?usp=sharing" target="_blank">(Rascunho) Orçamento Joao Machado para  Ana Finanças para Contas a Receber</a></div>
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://docs.google.com/spreadsheets/d/1DGY9yjRK8Kupc6x3_-UFWlz1P3glJhKjGShGaM6vSBE/edit?usp=sharing" target="_blank">Estrutura básica de contratos (prévia)</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/spreadsheets/d/1DGY9yjRK8Kupc6x3_-UFWlz1P3glJhKjGShGaM6vSBE/edit?usp=sharing" target="_blank">Estrutura básica de contratos (prévia)</a></div>
     <div style="background-color: #c6eafa;
     border-radius: 4px;padding: 15px;"><a href="https://docs.google.com/spreadsheets/d/1OyIEaXnYBtrBsk0-_iv7nMNSqUMuhRjS_lnykJYEEJw/edit?usp=sharing" target="_blank">Estrutura mínima de contratos</a></div>
 </div>
@@ -61,7 +61,7 @@ Gestão financeira.
 <details style="margin-bottom:20px;">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <summary style="
-    background-color: #ddd;
+    background-color: #3A3C42;
     padding: 10px;
     font-weight: bold;
     border-radius: 4px 4px 0 0;
@@ -70,7 +70,7 @@ Gestão financeira.
     Google Drive
 </summary>
 <div style="
-    border: 1px solid #ddd;
+    border: 1px solid #3A3C42;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #c6eafa;
@@ -81,7 +81,7 @@ Gestão financeira.
 <details style="margin-bottom:20px;">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <summary style="
-    background-color: #ddd;
+    background-color: #3A3C42;
     padding: 10px;
     font-weight: bold;
     border-radius: 4px 4px 0 0;
@@ -90,7 +90,7 @@ Gestão financeira.
     Storytelling
 </summary>
 <div style="
-    border: 1px solid #ddd;
+    border: 1px solid #3A3C42;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #c6eafa;
@@ -101,7 +101,7 @@ Gestão financeira.
 <details style="margin-bottom:20px;">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <summary style="
-    background-color: #ddd;
+    background-color: #3A3C42;
     padding: 10px;
     font-weight: bold;
     border-radius: 4px 4px 0 0;
@@ -110,24 +110,24 @@ Gestão financeira.
     Diagramas
 </summary>
 <div style="
-    border: 1px solid #ddd;
+    border: 1px solid #3A3C42;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://docs.google.com/document/d/1K-XdUOnlsNTWIHwOn1CavkO1FCXp8-9sA5AzpIpHDsU/edit?usp=sharing" target="_blank">Finanças SQL</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/document/d/1K-XdUOnlsNTWIHwOn1CavkO1FCXp8-9sA5AzpIpHDsU/edit?usp=sharing" target="_blank">Finanças</a></div>
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://miro.com/welcomeonboard/MlhadEZMcHBwUGZucjBtRTNkOUFXY0xSRkdFajdlcTczdktlMnY4N3o4N09iazRMVzlpTW1OVm9HM2J6OFBraXwzMDc0NDU3MzU4MDA5Njg2MDc1" target="_blank">FW - Entrevista Exploratória no Miro</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://miro.com/welcomeonboard/MlhadEZMcHBwUGZucjBtRTNkOUFXY0xSRkdFajdlcTczdktlMnY4N3o4N09iazRMVzlpTW1OVm9HM2J6OFBraXwzMDc0NDU3MzU4MDA5Njg2MDc1" target="_blank">FW - Entrevista Exploratória no Miro</a></div>
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://miro.com/welcomeonboard/UlpmazFoUXM1cFdwRjlnVDBxSXRXOTVUWDNIeVlpTmdnVVo5TWRMRU9Lc2h1UUh5S2IxRndjRmNETTRtVWFDc3wzMDc0NDU3MzU4MDA5Njg2MDc1" target="_blank">FW - Agentes e Problemáticas no Miro</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://miro.com/welcomeonboard/UlpmazFoUXM1cFdwRjlnVDBxSXRXOTVUWDNIeVlpTmdnVVo5TWRMRU9Lc2h1UUh5S2IxRndjRmNETTRtVWFDc3wzMDc0NDU3MzU4MDA5Njg2MDc1" target="_blank">FW - Agentes e Problemáticas no Miro</a></div>
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://miro.com/welcomeonboard/SVFFQkRVZ3dHdVQxdmRCM0kxQk8xdnZOalpucDhueXNuWTZ6dDZ0eWFoTHBMdUlRVDJma0FNNUN3dk5KODVENHwzMDc0NDU3MzU4MDA5Njg2MDc1" target="_blank">ANA - Finanças no Miro</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://miro.com/welcomeonboard/SVFFQkRVZ3dHdVQxdmRCM0kxQk8xdnZOalpucDhueXNuWTZ6dDZ0eWFoTHBMdUlRVDJma0FNNUN3dk5KODVENHwzMDc0NDU3MzU4MDA5Njg2MDc1" target="_blank">ANA - Finanças no Miro</a></div>
 </div>
 </details>
 
 <details style="margin-bottom:20px;">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <summary style="
-    background-color: #ddd;
+    background-color: #3A3C42;
     padding: 10px;
     font-weight: bold;
     border-radius: 4px 4px 0 0;
@@ -136,16 +136,16 @@ Gestão financeira.
     HubSpot
 </summary>
 <div style="
-    border: 1px solid #ddd;
+    border: 1px solid #3A3C42;
     border-radius: 0 0 4px 4px;
     padding: 15px;">
     <div style="background-color: #c6eafa;
-    border-radius: 4px;padding: 15px;"><a href="https://app.hubspot.com/login/" target="_blank">Login HubSpot</a></div>
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://app.hubspot.com/login/" target="_blank">Login HubSpot</a></div>
     <div style="background-color: #c6eafa;
     border-radius: 4px;padding: 15px;"><a href="https://www.hubspot.com/" target="_blank">Site HubSpot</a></div>
 </div>
 </details>
 
 ```markdown
-escolhendo
+Time: Carla Dias | Glaucia Paulino | João Machado | José Formiga | Lucas Fruncht | Marina Micas | Simone Albado
 ```
