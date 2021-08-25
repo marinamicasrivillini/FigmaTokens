@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Finanças
 
-You can use the [editor on GitHub](https://github.com/marinamicasrivillini/estudos-financeiros/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Gestão financeira.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<details style="margin-bottom:20px;">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<summary style="
+    background-color: #ddd;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 4px 4px 0 0;
+    cursor:pointer;"
+    title="Clique aqui para visualizar conteúdos do Trello"><i class="fab fa-trello" style="color: #2879d0;margin-right:10px;"></i>
+    Trello
+</summary>
+<div style="
+    background-color: #ddd;;
+    border-radius: 4px;
+    padding: 15px;">
+    <div style="
+    border: 1px solid #ddd;
+    border-radius: 0 0 4px 4px;
+                padding: 15px;"><a href="https://trello.com/b/mCWgLC4F/fw-entrevista-explorat%C3%B3ria-nasajon" target="_blank">FW - ENTREVISTA EXPLORATÓRIA (NASAJON)</a></div>
+</div>
+</details>
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+escolhendo
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marinamicasrivillini/estudos-financeiros/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
