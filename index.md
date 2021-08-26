@@ -171,6 +171,8 @@
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://www.contabilix.com.br/contabilidade-online/entenda-quem-e-o-responsavel-pelo-iss-quando-o-servico-for-prestado-fora-do-municipio-sede-da-empresa-prestadora/" target="_blank">Entenda quem é o responsável pelo ISS quando o serviço for prestado fora do município sede da empresa prestadora</a></div>
     <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/document/d/1BJnmKar6-QT4rYmCnsTLa69sG62oGfeoWEk11ORRWs0/edit?usp=sharing" target="_blank">Conceitos e regras de Contas a Receber - Reunião Fluxo Nasajon com Igor Coelho</a></div>
+    <div style="background-color: #000;
     border-radius: 4px;padding: 15px;"><a href="https://blog.contaazul.com/iss" target="_blank">Guia do ISS: quem deve pagar, como calcular e o que mudou no Imposto Sobre Serviços</a></div>
 </div>
 </details>
@@ -192,6 +194,8 @@
     padding: 15px;">
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://nasajoneducacional.com.br/ng/student/courses/financas/lectures/modulo-1-cadastros-iniciais-1/contents/5ea8a9d0c4dfa7001909c658/" target="_blank">Nasajon Educacional - Finanças</a></div>
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://drive.google.com/file/d/1kgz3OKazAB56w6RFVQLdIto4M4VFk2dO/view?usp=sharing" target="_blank">Video do curso de contas a receber - Reunião Fluxo Nasajon com Igor Coelho</a></div>
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;"><a href="https://drive.google.com/file/d/175CrCsKmxa6NXEcy5gUzIPMoyOGkXZxe/view" target="_blank">Apresentação Diário Único</a></div>
 </div>
