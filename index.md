@@ -173,6 +173,14 @@
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/document/d/1BJnmKar6-QT4rYmCnsTLa69sG62oGfeoWEk11ORRWs0/edit?usp=sharing" target="_blank">Conceitos e regras de Contas a Receber - Reunião Fluxo Nasajon com Igor Coelho</a></div>
     <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/presentation/d/1cIeKi0KTVdkAk_E6PVhbwTPnOA4PTIMXkRu9Ms_Bi9E/edit?usp=sharing" target="_blank">Nasajon - Nova Organização Desenvolvimento (Produto&Engenharia)</a></div>
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://sites.google.com/nasajon.com.br/mopenasajon/p%C3%A1gina-inicial" target="_blank">OPERAÇÕES E PROCESSOS EMPRESARIAIS DA NASAJON SISTEMAS</a></div>
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://mope.nasajon.com.br/" target="_blank">MOPE - Nasajon Sistemas</a></div>
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://docs.google.com/presentation/d/1p5iIAtpiRjjRH4WTpxSg0kj15GSSI1aW-5P35jl2qjY/edit?usp=sharing" target="_blank">MOPE - Matriz  de Operações e Processos Empresariais - versão 1.0.0</a></div>
+    <div style="background-color: #000;
     border-radius: 4px;padding: 15px;"><a href="https://blog.contaazul.com/iss" target="_blank">Guia do ISS: quem deve pagar, como calcular e o que mudou no Imposto Sobre Serviços</a></div>
 </div>
 </details>
@@ -196,6 +204,8 @@
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://nasajoneducacional.com.br/ng/student/courses/financas/lectures/modulo-1-cadastros-iniciais-1/contents/5ea8a9d0c4dfa7001909c658/" target="_blank">Nasajon Educacional - Finanças</a></div>
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://drive.google.com/file/d/1kgz3OKazAB56w6RFVQLdIto4M4VFk2dO/view?usp=sharing" target="_blank">Video do curso de contas a receber - Reunião Fluxo Nasajon com Igor Coelho</a></div>
+    <div style="background-color: #000;
+    border-radius: 4px;padding: 15px;margin-bottom:20px;"><a href="https://drive.google.com/file/d/1wGYdlNaqiptPw_6HmCJcOrrgn7LD5WcV/view?usp=sharing" target="_blank">Evento Nova Organização Desenvolvimento</a></div>
     <div style="background-color: #000;
     border-radius: 4px;padding: 15px;"><a href="https://drive.google.com/file/d/175CrCsKmxa6NXEcy5gUzIPMoyOGkXZxe/view" target="_blank">Apresentação Diário Único</a></div>
 </div>
