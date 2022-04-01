@@ -93,7 +93,7 @@
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
     title="Clique aqui para visualizar conteúdos de Storytelling"><i class="fas fa-quran" style="color: #959da5;margin-right:10px;"></i>
-    Storytelling
+    Treinamentos
 </summary>
 <div style="
     border: 2px solid #6a9fb5;
