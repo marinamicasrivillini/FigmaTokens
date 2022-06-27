@@ -14,12 +14,12 @@
 }
 
 .m-button--primary {
-    color: result.$main;
+    color: result.$color__button_text--primary;
     background: #003e8c;
 }
 
 .m-button--primary:hover {
-    color: result.$main;
+    color: result.$color__button_text--primary;
     background: #003270;
     text-decoration: none;
 }

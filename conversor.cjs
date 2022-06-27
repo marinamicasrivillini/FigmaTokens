@@ -15,7 +15,7 @@ const typographies = [];
 for(const [tokenKey, tokenValue] of Object.entries(tokens.global)) {
     if (tokenValue.value && typeof tokenValue.value == 'string') {
         elements.push({ 
-            name: `$${tokenKey}`, 
+            name: `${tokenKey}`, 
             value: !Number.isNaN(parseInt(tokenValue.value)) ? 
                 tokenValue.value + 'px' : 
                 tokenValue.value, 
