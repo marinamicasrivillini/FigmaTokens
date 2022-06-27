@@ -1,0 +1,29 @@
+@use 'result';
+
+.m-button {
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    height: 34px;
+    padding: 6px 12px;
+    white-space: nowrap;
+}
+
+.m-button--primary {
+    color: result.$main;
+    background: #003e8c;
+}
+
+.m-button--primary:hover {
+    color: result.$main;
+    background: #003270;
+    text-decoration: none;
+}
+
+.m-button--iconText {
+    margin-right: 10px;
+}
